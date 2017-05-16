@@ -6,11 +6,11 @@
   <version>0.0.8-SNAPSHOT</version>
   <name>webApps Maven Webapp</name>
   <url>http://maven.apache.org</url>
-   <!-- <scm>
+   <scm>
      <connection>scm:git:https://github.com/raja-M1993/DevopsJAVA.git</connection>
      <url>scm:git:https://github.com/raja-M1993/DevopsJAVA.git</url>
      <tag>webApps-0.0.1</tag>
-  </scm>-->
+  </scm>
   <distributionManagement>
    <snapshotRepository>
     <id>nexus</id>
