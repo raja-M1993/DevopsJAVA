@@ -3,7 +3,7 @@
   <groupId>com.mst</groupId>
   <artifactId>webApps</artifactId>
   <packaging>war</packaging>
-  <version>0.0.5-SNAPSHOT</version>
+  <version>0.0.7-SNAPSHOT</version>
   <name>webApps Maven Webapp</name>
   <url>http://maven.apache.org</url>
    <scm>
@@ -52,16 +52,7 @@
         <artifactId>tomcat7-maven-plugin</artifactId>
         <version>2.2</version>
     	</plugin>
-    	<!-- <plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-compiler-plugin</artifactId>
-            <version>3.3</version>
-            <configuration>
-                <source>1.8</source>
-                <target>1.8</target>
-            </configuration>
-        </plugin>-->
-    	 <plugin>
+    	<plugin>
      <groupId>org.apache.maven.plugins</groupId>
      <artifactId>maven-release-plugin</artifactId>
      <version>2.5.3</version>
