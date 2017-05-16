@@ -11,7 +11,9 @@
      <developerConnection>scm:git:https://github.com/raja-M1993/DevopsJAVA.git</developerConnection>
      <url>scm:git:https://github.com/raja-M1993/DevopsJAVA.git</url>
      <tag>HEAD</tag>
+     
   </scm>
+
   <distributionManagement>
    <snapshotRepository>
     <id>nexus</id>
@@ -76,4 +78,8 @@
    </build>
    </profile>
 </profiles>
-   </project>
+
+      <properties>
+      	<project.scm.id>git-server</project.scm.id>
+      </properties>
+</project>
