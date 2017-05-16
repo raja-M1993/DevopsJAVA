@@ -3,15 +3,10 @@
   <groupId>com.mst</groupId>
   <artifactId>webApps</artifactId>
   <packaging>war</packaging>
-  <version>0.0.8-SNAPSHOT</version>
+  <version>0.0.9-SNAPSHOT</version>
   <name>webApps Maven Webapp</name>
   <url>http://maven.apache.org</url>
-   <scm>
-     <connection>scm:git:https://github.com/raja-M1993/DevopsJAVA.git</connection>
-     <developerConnection>scm:git:https://github.com/raja-M1993/DevopsJAVA.git</developerConnection>
-     <url>scm:git:https://github.com/raja-M1993/DevopsJAVA.git</url>
-     <tag>HEAD</tag>
-  </scm>
+   
   <distributionManagement>
    <snapshotRepository>
     <id>nexus</id>
