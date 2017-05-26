@@ -9,10 +9,10 @@
 <body>
 <form method="post" action="Admission">
 <table align="center">
-<tr><th>Name</th><td><input type="text" name="stname" value="" /></td></tr>
-<tr><th>Roll no</th><td><input type="text" name="roll" value="" /></td></tr>
-<tr><th>Course</th><td><input type="text" name="course" value="" /></td></tr>
-<tr><th>Fees</th><td><input type="text" name="fees" value="" /></td></tr>
+<tr><th>Name</th><td><input type="text" id="name" name="stname" value="" /></td></tr>
+<tr><th>Roll no</th><td><input type="text" id="rollno" name="roll" value="" /></td></tr>
+<tr><th>Course</th><td><input type="text" id="course" name="course" value="" /></td></tr>
+<tr><th>Fees</th><td><input type="text" id="fees" name="fees" value="" /></td></tr>
 </table>
 <br>
 <br>
