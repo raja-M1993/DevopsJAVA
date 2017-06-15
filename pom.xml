@@ -20,11 +20,10 @@
       <name>Releases</name>
       <url>http://localhost:8081/nexus/content/groups/DevOps_Projects/</url>
    </repository>
-   <snapshotRepository>
+    <snapshotRepository>
     <id>DevOps_Project</id>
-    <name>DevOps_Project</name>
-    <url>http://localhost:8081/nexus/content/repositories/DevOps_Project/</url>
-    </snapshotRepository>
+    <url>http://localhost:8081/nexus/content/repositories/DevOps_Project</url>
+  </snapshotRepository>
 	     </distributionManagement> 
   <dependencies>
     <dependency>
