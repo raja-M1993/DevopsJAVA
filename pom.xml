@@ -3,7 +3,7 @@
   <groupId>com.mst</groupId>
   <artifactId>webApps</artifactId>
   <packaging>war</packaging>
-  <version>0.0.19-SNAPSHOT</version>
+  <version>0.0.20-SNAPSHOT</version>
   <name>webApps Maven Webapp</name>
   <url>http://maven.apache.org</url>
    <scm>
@@ -18,12 +18,12 @@
    <repository>
       <id>releases</id>
       <name>Releases</name>
-      <url>http://localhost:8081/nexus/content/repositories/releases/</url>
+      <url>http://localhost:8081/nexus/content/groups/DevOps_Projects/</url>
    </repository>
    <snapshotRepository>
-    <id>snapshots</id>
-    <name>Snapshots</name>
-    <url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
+    <id>DevOps_Project</id>
+    <name>DevOps_Project</name>
+    <url>http://localhost:8081/nexus/content/repositories/DevOps_Project/</url>
     </snapshotRepository>
 	     </distributionManagement> 
   <dependencies>
