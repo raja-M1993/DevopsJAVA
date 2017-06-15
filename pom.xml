@@ -3,7 +3,7 @@
   <groupId>com.mst</groupId>
   <artifactId>webApps</artifactId>
   <packaging>war</packaging>
-  <version>0.0.17-SNAPSHOT</version>
+  <version>0.0.18-SNAPSHOT</version>
   <name>webApps Maven Webapp</name>
   <url>http://maven.apache.org</url>
    <scm>
